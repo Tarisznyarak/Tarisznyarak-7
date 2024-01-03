@@ -7,9 +7,9 @@
 	scaledAttack = true
 	scaledDefense = true
 	scaledHealth = true
-	scaledItemDrops = true
-	scaledProjectiles = true
-	scaledExplosions = true
+	scaledItemDrops = false
+	scaledProjectiles = false
+	scaledExplosions = false
 	keepAllScalesOnRespawn = false
 	accurateNetherPortals = true
 	scalesKeptOnRespawn = []
