@@ -1216,7 +1216,7 @@
 [mana]
 	#How high a player's personal mana can go
 	#Range: 0 ~ 100000000
-	MAX_MANA_CAP = 200000
+	MAX_MANA_CAP = 100000000
 	#How much mana is spent before it increases
 	#Range: 0 ~ 100000000
 	MANA_UP_COUNTER = 100
