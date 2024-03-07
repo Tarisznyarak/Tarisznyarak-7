@@ -20,7 +20,7 @@
 	maxcitizenpercolony = 500
 	#Delay after each block placement (increasing it increases the delay). [Default: 15, min: 1, max: 500]
 	#Range: 1 ~ 500
-	builderbuildblockdelay = 10
+	builderbuildblockdelay = 5
 	#Delay modifier to mine a block (decreasing it decreases the delay). [Default: 500, min: 1, max: 10000]
 	#Range: 1 ~ 10000
 	blockminingdelaymodifier = 400
@@ -53,7 +53,7 @@
 	foodmodifier = 1.0
 	#How common diseases are. 1 = Very common, 100 = extremely rare. [Default: 5, min: 1, max: 100]
 	#Range: 1 ~ 100
-	diseasemodifier = 40
+	diseasemodifier = 5
 	#If part of the colony is loaded by an owner/officer, should the colony be kept loaded? (Set how many chunks are loaded with the "Colony Chunk Loading Strictness" option.) [Default: false]
 	forceloadcolony = true
 	#Set how long chunks stay loaded after player leaves, does not persist through restarts. Default: 10min [Default: 10, min: 1, max: 1440]
@@ -108,13 +108,13 @@
 [claims]
 	#Maximum claim range for a colony. This is the radius, measured in chunks. [Default: 20, min: 1, max: 250]
 	#Range: 1 ~ 250
-	maxColonySize = 32
+	maxColonySize = 250
 	#The minimum distance (in chunks) between colonies. [Default: 8, min: 1, max: 200]
 	#Range: 1 ~ 200
 	minColonyDistance = 16
 	#Initial claim size for a colony. This is the radius, measured in chunks. [Default: 4, min: 1, max: 15]
 	#Range: 1 ~ 15
-	initialColonySize = 4
+	initialColonySize = 15
 	#Should the min/max distance from spawn also affect colony placement? [Default: false]
 	restrictcolonyplacement = false
 	#Max distance (in blocks) from world spawn for a colony. [Default: 8000, min: 1000, max: 100000]
