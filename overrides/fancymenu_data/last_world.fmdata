@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = true
-  world = 2001:4c4e:1f04:f300:2afc:851c:5f2d:39d9:25565
-}
-
