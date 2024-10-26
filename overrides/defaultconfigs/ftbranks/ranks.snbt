@@ -1,0 +1,33 @@
+{
+	settlement: {
+		name: "Settlement"
+		power: 1
+		    condition: "always_active"
+		ftbchunks.max_claimed: 500
+		ftbchunks.max_force_loaded: 25
+	}
+	colony: {
+		name: "Colony"
+		power: 100
+		ftbchunks.max_claimed: 750
+		ftbchunks.max_force_loaded: 30
+	}
+	city: {
+		name: "City State"
+		power: 1000
+		ftbchunks.max_claimed: 1250
+		ftbchunks.max_force_loaded: 30
+	}
+	kingdom: {
+		name: "Kingdom"
+		power: 10000
+		ftbchunks.max_claimed: 2000
+		ftbchunks.max_force_loaded: 50
+	}
+	empire: {
+		name: "Empire"
+		power: 100000
+		ftbchunks.max_claimed: 5000
+		ftbchunks.max_force_loaded: 100
+	}
+}
