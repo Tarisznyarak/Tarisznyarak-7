@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Tarisznyarák 7",
+  "name": "MEGBASZTAM ANYÁDAT",
   "version": "",
   "author": "",
   "files": [
@@ -72,6 +72,11 @@
     {
       "projectID": 404468,
       "fileID": 4611938,
+      "required": true
+    },
+    {
+      "projectID": 470193,
+      "fileID": 4764733,
       "required": true
     },
     {
@@ -701,7 +706,7 @@
     },
     {
       "projectID": 255308,
-      "fileID": 5786710,
+      "fileID": 5302176,
       "required": true
     },
     {
@@ -710,13 +715,13 @@
       "required": true
     },
     {
-      "projectID": 312353,
-      "fileID": 5384768,
+      "projectID": 227639,
+      "fileID": 4389567,
       "required": true
     },
     {
-      "projectID": 227639,
-      "fileID": 4389567,
+      "projectID": 312353,
+      "fileID": 5384768,
       "required": true
     },
     {

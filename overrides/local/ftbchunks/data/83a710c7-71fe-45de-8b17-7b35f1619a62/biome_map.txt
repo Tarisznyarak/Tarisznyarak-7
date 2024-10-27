@@ -1,0 +1,10 @@
+#368 byg:allium_fields
+#47F minecraft:birch_forest
+#4B5 byg:canadian_shield
+#583 byg:dacite_ridges
+#010 minecraft:forest
+#508 minecraft:frozen_peaks
+#286 minecraft:grove
+#54B byg:howling_peaks
+#524 minecraft:snowy_slopes
+#355 byg:temperate_grove

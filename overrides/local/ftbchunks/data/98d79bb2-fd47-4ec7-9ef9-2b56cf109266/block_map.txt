@@ -1,0 +1,17 @@
+#0D47EE minecraft:azalea_leaves
+#DE242D minecraft:coal_ore
+#6E76AF minecraft:copper_ore
+#E3DF1E minecraft:dark_oak_leaves
+#80497A minecraft:dirt
+#E66556 minecraft:flowering_azalea_leaves
+#5A75B0 minecraft:glow_lichen
+#3F84B7 minecraft:grass_block
+#88BAFA minecraft:gravel
+#D7EADE minecraft:iron_ore
+#AFAC0D minecraft:poppy
+#465F37 minecraft:red_tulip
+#13F5AC minecraft:spruce_leaves
+#DC3458 minecraft:stone
+#AB5BC7 minecraft:stone_slab
+#B50B59 mekanism:tin_ore
+#88779D minecraft:vine

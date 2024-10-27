@@ -52,16 +52,12 @@
 	"Enables Hammer of Kingbdogz' cooldown overlay" = true
 
 [Audio]
-	#Makes Blue Aerclouds have their wobbly sounds that play when bouncing on them
-	"Blue Aercloud bouncing sounds" = true
 	#Sets the minimum delay for the Aether's music manager to use if needing to reset the song delay outside the Aether
 	"Set backup minimum music delay" = 12000
 	#Sets the maximum delay for the Aether's music manager to use if needing to reset the song delay outside the Aether
 	"Set backup maximum music delay" = 24000
 	#Disables the Aether's internal music manager, if true, this overrides all other audio configs
 	"Disables Aether music manager" = false
-	#Disables the Aether's boss fight music, only works if 'Disables Aether music manager' is false
-	"Disables Aether boss music" = false
 	#Disables the Aether's menu music in case another mod implements its own, only works if 'Disables Aether music manager' is false
 	"Disables Aether menu music" = false
 	#Disables the menu music on the vanilla world preview menu, only works if 'Disables Aether music manager' is false
