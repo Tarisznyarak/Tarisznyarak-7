@@ -436,6 +436,7 @@
 		"origins-plus-plus:alien-axolotl/soul_sand_effects/9_soul_sand_speed" = true
 		"origins-plus-plus:alien-axolotl/swim_speed" = true
 		"origins-plus-plus:alien-axolotl/traitor" = true
+		"origins-plus-plus:alien-axolotl/infamy_of_the_dead" = true
 
 	[origins."origins-plus-plus:binturong"]
 		enabled = true
@@ -2123,6 +2124,10 @@
 		"origins-plus-plus:automaton/water_elemental_attack" = true
 		"origins-plus-plus:automaton/waterbar" = true
 		"origins-plus-plus:automaton/waterbar_increase" = true
+		"origins-plus-plus:automaton/fire_attack" = true
+		"origins-plus-plus:automaton/health" = true
+		"origins-plus-plus:automaton/hot_biome" = true
+		"origins-plus-plus:automaton/water" = true
 
 	[origins."medievalorigins:yeti"]
 		enabled = true
