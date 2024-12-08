@@ -51,13 +51,19 @@ ServerEvents.recipes(event => {
       A: 'create:brass_ingot', 
       B: 'create:precision_mechanism'  
   });
+
+
+  event.recipes.createMixing('createindustry:blasting_mixture', ['minecraft:iron_ingot', 'minecraft:andesite']);
+
+
+
   event.remove({ id: 'constructionwand:stone_wand' });
   event.remove({ id: 'mekanismtools:osmium/armor/helmet' });
   event.remove({ id: 'mekanismtools:osmium/armor/chestpate' });
   event.remove({ id: 'mekanismtools:osmium/armor/leggings' });
   event.remove({ id: 'mekanismtools:osmium/armor/boots' });
   event.remove({ id: 'mekanism:processing/steel/enriched_iron_to_dust' });
-
+  event.remove({ id: 'immersiveengineering:arcfurnace/steel' });
 
 
   console.log('ky$');

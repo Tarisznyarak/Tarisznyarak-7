@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Tarisznyarák 7",
+  "name": "Tarisznyarak 7.1",
   "version": "",
   "author": "",
   "files": [
@@ -515,6 +515,11 @@
       "required": true
     },
     {
+      "projectID": 430867,
+      "fileID": 4901482,
+      "required": true
+    },
+    {
       "projectID": 240630,
       "fileID": 4862430,
       "required": true
@@ -565,8 +570,13 @@
       "required": true
     },
     {
+      "projectID": 429371,
+      "fileID": 4842873,
+      "required": true
+    },
+    {
       "projectID": 693815,
-      "fileID": 5811618,
+      "fileID": 5704106,
       "required": true
     },
     {
@@ -602,6 +612,11 @@
     {
       "projectID": 474438,
       "fileID": 5314165,
+      "required": true
+    },
+    {
+      "projectID": 508933,
+      "fileID": 5689272,
       "required": true
     },
     {
@@ -705,13 +720,13 @@
       "required": true
     },
     {
-      "projectID": 312353,
-      "fileID": 5384768,
+      "projectID": 227639,
+      "fileID": 4389567,
       "required": true
     },
     {
-      "projectID": 227639,
-      "fileID": 4389567,
+      "projectID": 312353,
+      "fileID": 5384768,
       "required": true
     },
     {
