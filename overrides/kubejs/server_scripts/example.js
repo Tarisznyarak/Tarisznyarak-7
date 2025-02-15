@@ -53,6 +53,21 @@ ServerEvents.recipes(event => {
   });
 
 
+
+event.recipes.farmersdelight.cooking(
+    ['minecraft:bricks', 'minecraft:carrot', 'minecraft:potato'],
+    'kubejs:teglaleves', // output
+    30, // exp
+    10, // cookTime
+    'minecraft:bowl', // container
+);
+event.recipes.farmersdelight.cooking(
+    ['minecraft:cobblestone', 'minecraft:carrot', 'minecraft:potato'],
+    'kubejs:koleves', // output
+    30, // exp
+    10, // cookTime
+    'minecraft:bowl', // container
+);
   event.recipes.createMixing('createindustry:blasting_mixture', ['minecraft:iron_ingot', 'minecraft:andesite']);
 
 

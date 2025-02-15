@@ -87,8 +87,8 @@
 				y = 2147483647
 
 			[client.gui.window.mekaSuitHelmet]
-				x = 2147483647
-				y = 2147483647
+				x = 54
+				y = 48
 
 			[client.gui.window.rename]
 				x = 2147483647
@@ -103,12 +103,12 @@
 				y = 15
 
 			[client.gui.window.transporterConfig]
-				x = 2147483647
-				y = 2147483647
-
-			[client.gui.window.upgrade]
 				x = 10
 				y = 15
+
+			[client.gui.window.upgrade]
+				x = -199
+				y = 2
 
 	#QIO Config
 	[client.qio]

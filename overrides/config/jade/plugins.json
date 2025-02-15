@@ -49,6 +49,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "hammerlib": {
+    "root": true
+  },
   "mekanism": {
     "infuse_type": true,
     "gas": true,
