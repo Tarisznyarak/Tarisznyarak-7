@@ -5,7 +5,7 @@ ServerEvents.recipes(event => {
       'BCB', 
       'ADA'
   ], {
-      A: 'immersiveengineering:ingot_steel', 
+      A: 'createindustry:steel_ingot', 
       B: 'kubejs:brass_precision_mechanism', 
       C: 'immersiveengineering:heavy_engineering',
       D: 'immersiveengineering:light_engineering'
